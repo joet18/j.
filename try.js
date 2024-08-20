@@ -18,4 +18,9 @@ let bill=10.25 + 3.99 + 7.15;
   const adjective3 = "entertaining";
      const mint="The Intro to JavaScript course is "+adjective1+". \nJames and Julia areso"+adjective2+". \nI cannot wait to work through the rest of this "+adjective3+" content!";
 console.log(mint);
+const firstname="Julia";
+const intrest="Cat";
+const hobby="videogames";
+const awsomemessage="Hi my name is "+firstname+". I love "+intrest+". In my free time ,I like to play "+hobby+".";
+console.log (awsomemessage);
 
